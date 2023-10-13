@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="CSI2300:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CSI2300_jar</output-path>
+    <root id="root">
+      <element id="archive" name="CSI2300.jar">
+        <element id="module-output" name="CSI2300" />
+      </element>
+    </root>
+  </artifact>
+</component>
